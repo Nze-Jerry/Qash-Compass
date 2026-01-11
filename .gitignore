@@ -1,0 +1,35 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+# Build artifacts (if any)
+dist/
+build/
+*.exe
+*.msi
+*.zip
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Documentation build files
+docs/_build/
+docs/.buildinfo
