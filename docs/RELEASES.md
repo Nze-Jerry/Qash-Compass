@@ -49,7 +49,7 @@ To ensure your download is authentic:
 
 ## Installation
 
-See the [Installation Guide](docs/INSTALLATION.md) for detailed instructions.
+See the [Installation Guide](INSTALLATION.md) for detailed instructions.
 
 ## Release Notes
 
@@ -113,8 +113,8 @@ All previous releases are available on the [Releases page](https://github.com/Nz
 ## Support
 
 For issues with specific releases:
-- Check [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
-- Review [FAQ](docs/FAQ.md)
+- Check [Troubleshooting Guide](TROUBLESHOOTING.md)
+- Review [FAQ](FAQ.md)
 - Create an [issue](https://github.com/Nze-Jerry/Qash-Compass/issues) with your version number
 
 ## Changelog

@@ -96,7 +96,6 @@ Qash Compass is designed with privacy as a top priority:
 
 - **Issues**: [GitHub Issues](https://github.com/Nze-Jerry/Qash-Compass/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Nze-Jerry/Qash-Compass/discussions)
-- **Email**: support@qashcompass.example.com
 
 ## 🙏 Acknowledgments
 

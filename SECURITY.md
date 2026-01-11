@@ -10,8 +10,8 @@ If you discover a security vulnerability, please **DO NOT** create a public GitH
 
 Instead, please report it privately by:
 
-1. **Email**: Send details to security@qashcompass.example.com
-2. **GitHub Security Advisory**: Use the [Security tab](https://github.com/Nze-Jerry/Qash-Compass/security/advisories/new) to create a private security advisory
+1. **GitHub Security Advisory**: Use the [Security tab](https://github.com/Nze-Jerry/Qash-Compass/security/advisories/new) to create a private security advisory
+2. **GitHub Issues**: For less critical security concerns, you may create a private issue
 
 ### What to Include
 
