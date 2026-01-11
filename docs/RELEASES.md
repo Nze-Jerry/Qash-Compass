@@ -119,7 +119,7 @@ For issues with specific releases:
 
 ## Changelog
 
-Detailed changes for each version: [CHANGELOG.md](CHANGELOG.md)
+Detailed changes for each version: [CHANGELOG.md](../CHANGELOG.md)
 
 ---
 
